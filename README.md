@@ -1,2 +1,3 @@
-# plugins
- 插件
+# extensions
+
+插件
